@@ -1,0 +1,19 @@
+{
+  "title": "Test",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Man's Best Friend With Benefits",
+      "volume": "01",
+      "last_updated": "1649457637",
+      "groups": {
+        "Kabier": [
+          "https://myreadingmanga.info/kabier-mans-best-friend-with-benefits-eng/"
+        ]
+      }
+    }
+  }
+}
